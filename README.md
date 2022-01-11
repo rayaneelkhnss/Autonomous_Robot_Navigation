@@ -103,7 +103,7 @@ Ajoutez ces deux lignes à la fin du fichier bashrc (adresse IP du PC dans le RO
 
 Sur votre PC, lancez la commande suivante dans un nouveau terminal pour assurer la communication entre le PC et la Raspberry :
 	
-	roscore dans un terminal pour lancer la communication entre le PC et la Raspberry
+	roscore
 
 Sur la Raspberry, lancez la commande suivante pour pouvoir utiliser les applications TurtleBot3 :
 
