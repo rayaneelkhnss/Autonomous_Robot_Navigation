@@ -10,7 +10,7 @@ The goal of the project is to design a real-time navigation system for a robot v
 
 ## Répertoires et fichiers du projet
 
-• PC UBUNTU
+• PC UBUNTU 20.04
 
 	• catkin_ws
 	
